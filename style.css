@@ -61,7 +61,7 @@ html::-webkit-scrollbar-track {
 .navBar .rightNav a {
     margin: 1rem;
     font-size: 2rem;
-    color: black;
+    color: white;
 }
 
 .navBar .rightNav a:hover {
@@ -116,6 +116,7 @@ html::-webkit-scrollbar-track {
     animation: titleHome 2s 2 1s;
     width: 60%;
     text-align: start;
+    color: white;
 }
 
 .home .videoMain #video1 {
